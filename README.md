@@ -1,8 +1,7 @@
-# horror_movie_list
-Who doesn't love a good horror movie? I've made a list of some of my favorites with stats including original taglines.  
+# Horror Movie List
 
-
-Description: 
+# Description: 
+Who doesn't love a good horror movie?
 This is a list of Bootstrap cards that pull horror movies (with data) from a json file and renders them to the cards. It is a modulated React program and is function oriented. 
 
 Future Improvements: 
