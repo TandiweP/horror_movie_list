@@ -26,7 +26,10 @@ function Movie({data}){
                         <td className="text-success font-weight-bold">Released:</td>
                         <td>{data.released}</td>
                     </tr>
-                    
+                    <tr>
+                        <td className="text-success font-weight-bold">My Rating:</td>
+                        <td>{data.myRating}</td>
+                    </tr>
                   </tbody>
                 </table>
 

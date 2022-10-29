@@ -4,27 +4,31 @@
       "title": "Scream",
       "tagline": "He's Taken His Love Of Fear, One Step, Too Far.",
       "director": "Wes Craven",
-      "released": "1996"
+      "released": "1996",
+      "myRating": "9/10"
     },
     {
       "title": "The Others",
       "tagline": "Sooner or later she'll see them, then everything will be different.",
       "director": "Alejandro Amenábar",
-      "released": "2001"
+      "released": "2001",
+      "myRating": "9/10"
     },
 
     {
       "title": "The Thing",
       "tagline": "Any time. Anywhere. Anyone.",
       "director": "John Carpenter",
-      "released": "1982"
+      "released": "1982",
+      "myRating": "7/10"
     },
     
     {
       "title": "Alien",
       "tagline": "In space no one can hear you scream.",
       "director": "Ridley Scott",
-      "released": "1979"
+      "released": "1979",
+      "myRating": "9/10"
     }
   ]
 }
