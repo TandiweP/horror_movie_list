@@ -14,8 +14,10 @@ function App(){
     console.log('loaded:', loaded, 'data:', data);
 
     return (<>
-        <div className="container">
-            <h1>Some Horror Movie Fav's...</h1>    
+        <div className = "container-fluid" id="heading">
+            <h1>HORROR FILMS</h1>
+        </div>
+        <div className="container" id="movieContainer">   
             {loaded && data.movies.map((movie,i) => <Movie data={movie} key={i}/>)}
         </div>        
     </>);   
