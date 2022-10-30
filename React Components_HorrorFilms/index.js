@@ -15,7 +15,9 @@ function App(){
 
     return (<>
         <div className = "container-fluid" id="heading">
-            <h1>HORROR FILMS</h1>
+            <h1>HORROR
+            <img className="img-fluid" id="ghostly" src="./images/ghostly.png"></img>
+            &nbsp;MOVIES</h1>
         </div>
         <div className="container" id="movieContainer">   
             {loaded && data.movies.map((movie,i) => <Movie data={movie} key={i}/>)}
