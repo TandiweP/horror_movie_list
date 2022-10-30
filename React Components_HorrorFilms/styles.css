@@ -11,6 +11,23 @@ body {
   background: black;
 }
 
+#heading {
+  /* padding-top: 2vh;
+  padding-bottom: 1vh; */
+  margin-bottom: 4vh;
+  color: black;
+  text-align: center;
+  background-color: #cf2e2e;
+}
+
+h1 {
+  font-family: fantasy;
+  letter-spacing: 0.5em;
+  /* word-spacing: 3em; */
+  line-height: 2.5em;
+  font-weight: 100;
+}
+
 #movieContainer {
   width: 70vw;
 }
@@ -33,15 +50,6 @@ body {
   border-color: var(--primary);
   background-color: var(--primary);
   text-align: center;
-}
-
-#heading {
-  padding-top: 2vh;
-  padding-bottom: 1vh;
-  margin-bottom: 4vh;
-  color: black;
-  text-align: center;
-  background-color: #cf2e2e;
 }
 
 /* table {

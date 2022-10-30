@@ -15,7 +15,7 @@ function App(){
 
     return (<>
         <div className = "container-fluid" id="heading">
-            <h1>Horror Films</h1>
+            <h1>HORROR FILMS</h1>
         </div>
         <div className="container" id="movieContainer">   
             {loaded && data.movies.map((movie,i) => <Movie data={movie} key={i}/>)}
