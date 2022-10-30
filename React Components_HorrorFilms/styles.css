@@ -24,6 +24,11 @@ body {
   opacity: 0.8;
 }
 
+#ghostly {
+  max-height: 15vh;
+  margin-left: 1vw;
+  /* margin-right: 1vw; */
+}
 h1 {
   font-family: fantasy;
   letter-spacing: 0.5em;
@@ -51,7 +56,7 @@ h1 {
 .card-header {
   background-color: #cf2e2e;
   border-color: #cf2e2e;
-  color: black;
+  color: white;
   font-size: 50px;
   text-align: center;
   font-family: "Source Code Pro", monospace;
