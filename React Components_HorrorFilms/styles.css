@@ -13,16 +13,16 @@ body {
 .card {
   margin-bottom: 25px;
   border-color: var(--secondary);
-  border-radius: 30% 30% 20% 20%;
+  /* border-radius: 30% 30% 20% 20%; */
 }
 
-.card-header:first-child {
+/* .card-header:first-child {
   border-radius: 30% 20% 0 0;
-}
+} */
 
 .card-header {
   height: 100px;
-  background-color: rgb(160, 22, 22);
+  /* background-color: rgb(160, 22, 22); */
   color: greenyellow;
   font-size: 50px;
   text-align: center;
