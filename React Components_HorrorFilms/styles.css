@@ -8,22 +8,17 @@
     https://getbootstrap.com/docs/4.5/components/card/
 */
 body {
-  background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(100, 100, 100) 100%);
+  background: black;
 }
+
 .card {
   margin-bottom: 25px;
-  border-color: var(--secondary);
-  /* border-radius: 30% 30% 20% 20%; */
 }
 
-/* .card-header:first-child {
-  border-radius: 30% 20% 0 0;
-} */
-
 .card-header {
-  height: 100px;
-  /* background-color: rgb(160, 22, 22); */
-  color: greenyellow;
+  background-color: #cf2e2e;
+  border-color: #cf2e2e;
+  color: black;
   font-size: 50px;
   text-align: center;
   font-family: "Creepster", cursive;
@@ -35,17 +30,13 @@ body {
   text-align: center;
 }
 
-h1 {
-  padding-top: 25px;
-  padding-bottom: 25px;
-  color: rgb(66, 160, 22);
+#heading {
+  padding-top: 2vh;
+  padding-bottom: 1vh;
+  margin-bottom: 4vh;
+  color: black;
   text-align: center;
-  font-family: "Creepster", cursive;
-}
-
-.banner {
-  border-radius: 50%;
-  background: purple;
+  background-color: #cf2e2e;
 }
 
 /* table {
