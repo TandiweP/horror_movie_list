@@ -1,6 +1,6 @@
 function Movie({data}){
     return (
-
+        
         <div className="card">
             
             <h5 className="card-header">{data.title}</h5>
