@@ -1,6 +1,6 @@
 # Horror Movie List
 
-![Image](http://url/a.png)
+![Image](horrormoviesnapshot.png)
 
 # Description: 
 Who doesn't love a good horror movie?
