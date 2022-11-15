@@ -1,5 +1,7 @@
 # Horror Movie List
 
+![Image](http://url/a.png)
+
 # Description: 
 Who doesn't love a good horror movie?
 This is a list of Bootstrap cards that pull horror movies (with data) from a json file and renders them to the cards. It is a modulated React program and is function oriented. 
