@@ -29,6 +29,14 @@
       "director": "Ridley Scott",
       "released": "1979",
       "myRating": "9/10"
+    },
+
+    {
+      "title": "The Shining",
+      "tagline": "The Horror is driving him crazy",
+      "director": "Stanley Kubrick",
+      "released": "1980",
+      "myRating": "7/10"
     }
   ]
 }

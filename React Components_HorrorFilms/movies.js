@@ -1,4 +1,5 @@
 function Movie({data}){
+    
     return (
         
         <div className="card">
@@ -7,7 +8,7 @@ function Movie({data}){
             
             <div className="card-body">
             
-
+                
                 <table className="table">
                   <tbody>
                     <tr>
@@ -35,5 +36,5 @@ function Movie({data}){
 
             </div>
         </div>
-
+    
 )}
