@@ -37,6 +37,14 @@
       "director": "Stanley Kubrick",
       "released": "1980",
       "myRating": "7/10"
+    },
+
+    {
+      "title": "Halloween",
+      "tagline": "The Night He Came Home",
+      "director": "John Carpenter",
+      "released": "1978",
+      "myRating": "9/10"
     }
   ]
 }
