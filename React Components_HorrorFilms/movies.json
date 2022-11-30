@@ -45,6 +45,13 @@
       "director": "John Carpenter",
       "released": "1978",
       "myRating": "9/10"
+    },
+    {
+      "title": "Dark Was The Night",
+      "tagline": "Evil's Roots Run Deep",
+      "director": "Jack Heller",
+      "released": "2014",
+      "myRating": "2/10"
     }
   ]
 }
