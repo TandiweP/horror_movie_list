@@ -52,6 +52,14 @@
       "director": "Jack Heller",
       "released": "2014",
       "myRating": "2/10"
+    },
+    {
+      "title": "The Faculty",
+      "tagline": "Take Me To Your Teacher",
+      "director": "Robert Rodriguez",
+      "released": "1998",
+      "myRating": "9/10"
     }
+    
   ]
 }
